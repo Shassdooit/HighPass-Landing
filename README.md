@@ -8,8 +8,9 @@
 - Pixel Perfect
 - Адаптивная,кроссбраузерная вёрстка 
 - Gulp-сборка (https://github.com/Shassdooit/Gulp)
-- Препроцессор SCSS 
+- Препроцессор SCSS
+- CSS Grid
 
 
 
-Спасибо за просмотр [Ссылка на макет в Figma](https://www.figma.com/file/u1WrVmV056NKsEyQjaSTXA/Photo?node-id=0%3A1)
+Спасибо за просмотр, [Ссылка на макет в Figma](https://www.figma.com/file/u1WrVmV056NKsEyQjaSTXA/Photo?node-id=0%3A1)
